@@ -1,0 +1,27 @@
+The NSA has conducted a covert campaign to intercept internal communications of operators and trade groups in order to infiltrate mobile networks worldwide, according to the latest revelations from documents supplied by Edward Snowden.
+
+The U.S. National Security Agency ran two hitherto undisclosed operations, the Wireless Portfolio Management Office and the Target Technology Trends Center, operating under the aegis of a program called Auroragold, according to an article last week in The Intercept, which also published related documents.
+
+The operations closely monitored the GSM Association, maintained a list of 1,201 email targets, or "selectors" used to intercept internal company communications, and gathered information about network security flaws. The NSA documents show that as of May 2012 the agency had collected technical information on about 70 percent of the estimated 985 mobile phone networks worldwide.
+
+Other than mentions of operators in Libya, China, and Iran, names of the targeted companies are not disclosed in the documents supplied by Snowden, an ex-NSA contractor now living in Russia. Intercept founding editors Glenn Greenwald and Laura Poitras have been instrumental in helping Snowden leak NSA documents to the public through various media outlets.
+
+The NSA operations collected information in so-called IR.21 documents used by GSMA members to report security weaknesses and details about the encryption used by mobile operators, according to the Snowden documents. The NSA used this information to circumvent encrypted communications, according to the documents.
+
+"NSA collects only those communications that it is authorized by law to collect in response to valid foreign intelligence and counterintelligence requirements -- regardless of the technical means used by foreign targets, or the means by which those targets attempt to hide their communications," the NSA said in an emailed statement. "Terrorists, weapons proliferators, and other foreign targets often rely on the same means of communication as ordinary people. In order to anticipate and understand evolving threats to our citizens and our allies, NSA works to indentify and report on the communications of valid foreign targets."
+
+Since June 2013, documents leaked by Snowden have led to a series of reports on the extent of the NSA's covert spying on Internet and telecom networks worldwide. The documents have also shown that the NSA has hacked into emails of leaders of U.S. allies as well as into networks and equipment of foreign companies including China-based Huawei.
+
+Last year a series of articles in ProPublica, The Guardian and The New York Times disclosed that the NSA had been working for years to weaken security standards to help the U.S. government's massive surveillance programs. The articles for example indicated that a crypto random-bit generator known called Dual Elliptic Curve Deterministic Random Bit Generator was deliberately subverted by NSA cryptographers working to develop and promulgate standards that would allow the creation of back doors in security products.
+
+Documents leaked by Snowden last year also show the NSA can capture GSM traffic that's encrypted with the A5/1 algorithm.
+
+The documents published by The Interceptor Saturday follow November reports by Symantec and Kaspersky Labs that malware dubbed Regin, quite possibly developed by the U.S.,
+
+at least for the last six years targeted mainly GSM cellular networks to spy on governments, infrastructure operators, research institutions, corporations, and private individuals.
+
+In addition to its covert operations, the NSA runs a widely criticized domestic bulk telephone records collection program. Last month, NSA Director Michael Rogers said the agency is planning no major changes in its domestic telephone records collection program after a bill to curb those efforts failed in the Senate.
+
+However, the NSA says that it does take into account President Obama's directive to consider privacy when conducting surveillance.
+
+"In January, the president issued Presidential Policy Directive 28, which directs that privacy and civil liberties shall be integral considerations in the planning of U.S. signals intelligence activities," the NSA noted in its emailed statement. "The president also directed that signals intelligence activities take into account the globalization of trade, investment, and information flows -- and the commitment to an open, interoperable, and secure global Internet. NSA deeply values these principles and takes great care to honor them in the performance of its lawful foreign-intelligence mission."
