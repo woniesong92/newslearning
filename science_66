@@ -1,0 +1,122 @@
+World’s coolest ‘clock’ is also crazy-accurate
+
+On April 3, U.S. scientists announced the launch of the world’s most accurate atomic clock. It’s three times better than the United States’ former top clock. The new timepiece — named NIST-F2 — is so precise that it loses (or gains) no more than one second every 300 million years. That makes it about a million times more accurate than the first atomic clocks, built back in 1955.
+
+The new clock takes its name from where it was born — at the National Institute of Standards and Technology, or NIST, in Boulder, Colo.
+
+Actually, F2 “really isn’t a clock,” says Thomas O’Brian. He should know. He runs NIST’s Time and Frequency Division, which developed F2. “It’s not a clock in the sense of something that keeps track of the time of day,” he explains. So NIST referring to it as a clock, he admits, is “a little bit of a fib.”
+
+But that doesn’t diminish F2’s importance.
+
+
+F2 is a mammoth device weighing about a ton, but not all atomic clocks are so hefty. In 2004, NIST created the world’s first atomic clock that’s small enough to fit on a computer chip. While not nearly as accurate as F2, it’s inexpensive, takes little power to run and is smaller than the grain of rice and dime, with which it is shown here.
+NIST
+Atomic clocks such as F2 determine the precise length of a second. Many everyday devices, from computers and GPS-satellite receivers to the system that transmits electric power across the country, rely on the high accuracy of atomic clocks to coordinate their activities. Some wristwatches even use atomic clocks to maintain perfect time.
+
+To keep track of time, second by second, NIST maintains a family of some 10 commercial atomic clocks. They’re the type any company might buy if its operations demanded precision timekeeping. (For instance, miners or divers working far from Earth’s surface — and access to satellite relays of time signals — could carry out precisely coordinated activities with coworkers at the surface. And companies that relay phone and data messages would not have to worry if they temporarily lost access to the signals used to coordinate message tracking.)
+
+While the accuracy of NIST’s time-counting commercial clocks is superb, none of them can compare to F2 or its still-working predecessor, F1. That clock — and now F2 — set the standard for all other clocks. So you might think of them as being bosses for the other atomic clocks and timepieces that actually measure elapsed time.
+
+Clocks need a boss. Time-keeping clocks, for instance, can run out of battery power, or their gears can lose their accuracy (as they expand, contract or warp with changing temperature). Atomic clocks are far more precise. But every now and then, even they can stray from the true time. They may lose or gain a few tenths of a quadrillionth of a second every few days or weeks. Moreover, each will drift at its own rate.
+
+By comparing how each of those less accurate atomic clocks compares to F1 or F2, NIST can tell how fast or slow the other timekeepers are. Then it can adjust the time they are reporting. Not by much. Not by enough that outsiders would likely even notice. But NIST knows. That’s because it’s the leading U.S. authority on how to measure all things, including time.
+
+NIST’s official clocks are used to reset the time (known as synchronization) in devices for companies and the public. That’s how each cell phone knows what time it is, for instance, even when its owner travels from one time zone to another. By early this year, NIST reports, it was receiving about 8 billion automated requests each day just to synchronize clocks in computers and network devices.
+
+
+NIST scientists admit that F2 looks more like a “science experiment” than a clock.
+NIST
+Relying on laser cooling
+Not only does F2 not perform like a standard timepiece, but it also doesn’t look like one. There’s no clock face or hands. There’s not even a digital display. For anyone stumbling into the room housing the new device, “probably the last thing in the world they’d guess is that this is a clock,” O’Brian says. “It looks like a science experiment.”
+
+NIST houses this master measurer of seconds in a space the size of the living room in an average home. Racks of electronic equipment sit next to a big table holding lenses, mirrors and a bunch of lasers. But the dominant thing that would catch anyone’s eye is the large aluminum tube standing upright on the floor, roughly 2.4 meters (8 feet) tall and 0.6 meter (2 feet) in diameter. Together, all of F2’s assorted parts weigh about a ton.
+
+But the heart of the system is invisible to the eye: a pool of cesium atoms sailing around inside a near-vacuum within that big tube.
+
+Cesium-based atomic clocks have been around since the mid-1950s. Scientists have defined the length of one second in terms of cesium atoms since 1967. That’s when the General Conference on Weights and Measures, the international group that puts an official stamp on quantities like a kilogram or meter, changed the definition of a second. It announced that the second would no longer be defined in terms of the length a day, which is based on the rotation of the Earth.  
+
+In the new F2 device, NIST scientists stimulate cesium atoms and then probe light coming from them. To do that, F2 creates conditions that the scientists call optical molasses. (Molasses is a slow-pouring, super-thick liquid sweetener.)
+
+How lasers make ‘optical molasses’
+Six lasers beam their light into the clock’s vacuum from different directions (up, down and four sides). Those beams meet at the same spot inside the tube. Any cesium atom that happens to fly through that spot gets caught. It doesn’t take long for the system to collect a ball of perhaps a million atoms this way.
+Because atomic motion relates to temperature, these suddenly stalled atoms now have a temperature of only about a millionth of a degree above absolute zero, O’Brian explains. (NIST is experienced at this laser cooling. Its physicists pioneered the process back in 1978.) 
+
+Once the machine has captured those freezing cold atoms, the measuring can begin.
+
+
+Here’s a drawing of what’s inside F2’s big aluminum tube. Liquid nitrogen keeps the tube very cool, so it radiates little infrared radiation (which could change the clock’s ticking rate). Beams from six infrared lasers focus on a point where the cesium atoms collect and chill. A microwave generator beams radiation at the fountain of lofted atoms, and a photo detector looks for radiation later shed by those atoms.
+NIST
+What makes F2 tick?
+After catching a ball of cesium atoms, “we do a little trick with the lasers,” O’Brian says. F2 turns off the lasers that had been beaming in light from various sides. This leaves only the top and bottom lasers on. By tweaking how they operate, those lasers sort of toss that ball of super-cold cesium atoms higher up within the tube. The action resembles water bubbling up. That’s why scientists sometimes refer to this as a cesium fountain clock.
+
+F2 then beams microwaves — a type of electromagnetic radiation — at the atoms in the fountain. NIST makes sure that these microwaves have a wavelength very close to 9,192,631,770 cycles per second, or hertz. At this wavelength, and only this wavelength, cesium atoms will briefly absorb much of the microwave energy.
+
+Actually, only electrons in the outer orbits circling the nucleus of each cesium atom pick up that energy. When they do, these electrons become excited. This makes them more energetic. The electrons respond by briefly jumping into a higher orbit around the cesium nucleus.
+
+Shortly afterward, the electrons fall back to their old orbit. And as they do, they shed that extra microwave energy — again, at the precise frequency of 9,192,631,770 hertz.
+
+F2 looks for the emission of that microwave radiation. Like dialing a radio to find the frequency where your favorite station comes in most clearly, F2 scans for the frequency at which the most microwaves spew from its cesium atoms. That frequency, by definition, must be 9,192,631,770 hertz, O’Brian explains.
+
+And, he adds, that frequency constitutes the “ticking” of this clock. F2 will report having measured a second whenever it counts off 9,192,631,770 oscillations of energy coming from the cesium.
+
+Oh, and to further ensure the ticking rate is spot on, NIST's scientists chill down the tube in which all of this counting is going on. It's a frigid 193º Celsius, or minus 316º Fahrenheit. In NIST-F1, by comparison is at room temperature. And that allows the tube to radiate some energy at the cesium atoms. That energy has the potential to shift their ticking rate just a tiny bit, OBrian notes.
+
+
+A physicist working on a next-generation strontium-based atomic clock at a joint institute between NIST and the University of Colorado, Boulder. These clocks could become at least 100 times more accurate than F2 at measuring the second.
+JILA, BOULDER
+What’s next?
+Why bother to tweak an atomic clock to make it such a tiny bit better? "We've learned that every time we build a better clock, somebody comes up with a use for it that you couldn't have foreseen," explains NIST’s Steven Jefferts. He led the research team that spent the last 10 years designing NIST’s new clock.
+
+What kind of new uses? Consider GPS (global positioning system) devices. They only became a concept in the early 1970s. That’s more than 20 years after the first atomic clock emerged. It’s also two decades before GPS systems became fully functional (around 1995). Says O’Brian: “There is no known other practical technology besides the precision timing provided by atomic clocks that could make GPS or any other global location/navigation system functional.”
+
+And this attitude that new uses for clocks will develop is why NIST and other organizations aren’t satisfied that F2 is good enough.
+
+Today, these scientists already are working on the next generation of boss clocks. Instead of being based on microwave emissions from cesium atoms at about 9 billion hertz, these new clocks are based on light emissions from different atoms at up to 1 million billion hertz. These devices are called optical clocks.
+
+Their developers are exploring several types. They will use visible or ultraviolet emissions from different laser-cooled atoms or ions (electrically charged atoms) — excited strontium, ytterbium, aluminum or mercury.
+
+Because these optical clocks have a much higher ticking rate compared to the cesium clock, they could be up to 1,000 times more accurate, O’Brian says. Several research versions are already outperforming the cesium microwave clock, he notes. But it likely will be several years before the international scientific community picks a new definition of the second based on an optical clock.
+
+Until then, NIST-F2 and other microwave cesium clocks will still officially be the best clocks in the world.
+
+Power Words
+absolute zero  The coldest possible temperature, also known as 0 kelvin. It is equal to minus 273.15 degrees Celsius (minus 459.67 degrees Fahrenheit).
+
+atom  The basic unit of a chemical element. Atoms are made up of a dense nucleus that contains positively charged protons and neutrally charged neutrons. The nucleus is orbited by a cloud of negatively charged electrons.
+
+atomic clock   A timekeeping device that relies on the frequency of microwave emissions from excited cesium atoms. That frequency is 9,192,631,770 hertz (or cycles/oscillations per second). Many common devices including cell phones, computers and GPS-satellite receivers rely on the high accuracy of atomic clocks to regularly reset their time (known as synchronization).
+
+cesium    A metallic chemical element with the atomic number 55. Among its many uses, cesium serves as the basis of today’s atomic clocks and is used in many photo-electric cells.
+
+electron    A negatively charged particle; the carrier of electricity within solids. Atoms will have one or more of these orbiting around their nucleus.
+
+excite    (in chemistry and physics)To transfer energy to one or more outer electrons in an atom. They remain in this higher energy state until they shed the extra energy through the emission of some type of radiation, such as light.
+
+frequency  The number of times a specified periodic phenomenon occurs within a specified time interval. (In physics) The number of wavelengths that occurs over a particular interval of time.
+
+GPS    Abbreviation for global positioning system. GPS devices calculate their position (in terms of latitude and longitude) from any place on the ground or in the air. They do this by comparing how long it takes signals from different satellites to reach them.
+
+hertz    The frequency with which something (such as a wavelength) occurs, measured in the number of times the cycle repeats during each second of time.
+
+laser   A device that generates an intense beam of coherent light of a single color. Lasers are used in drilling and cutting, alignment and guidance, and in surgery.
+
+microwaves  An electromagnetic wave with a wavelength shorter than that of normal radio waves but longer than those of infrared radiation (heat) and of visible light.
+
+NIST   (short for National Institute for Standards and Technology) Created in 1901 as the National Bureau of Standards, this government agency is now part of the U.S. Department of Commerce. It is charged with figuring out the best or most accurate way to measure things and with developing new and more accurate ways to do that measuring. To develop and test those measurement technologies, this agency has maintained one of the oldest physical science laboratories in the United States. It actually maintains several laboratories, although its headquarters is in Gaithersburg, Md.
+
+nucleus    Plural is nuclei. (in physics) The central core of an atom, containing most of its mass.
+
+optical   An adjective that refers to light or vision.
+
+optical molasses    A term used to describe the condition created by a series of laser beams that makes it hard for atoms to move. It can be used to slow and cool those atoms.
+
+physicist  A scientist who studies the nature and properties of matter and energy.
+
+quadrillion   A very big unit of measure equal to 1,000 trillion. It would be written with a 1 followed by 15 zeros.
+
+radiation  Energy, emitted by a source, that travels through space in waves or as moving subatomic particles. Examples include visible light, infrared energy and microwaves.
+
+vacuum   (in science) Space with little or no matter in it.
+
+wavelength  The distance between one peak and the next in a series of waves, or the distance between one trough and the next. Visible light — which, like all electromagnetic radiation, travels in waves — includes wavelengths between about 380 nanometers (violet) and about 740 nanometers (red). Radiation with wavelengths shorter than visible light includes gamma rays, X-rays and ultraviolet light. Longer-wavelength radiation includes infrared light, microwaves and radio waves.
+

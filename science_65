@@ -1,0 +1,70 @@
+Detecting a single proton
+
+A proton may be incredibly small, but the subatomic size of this particle makes it ideal for researchers trying to peer into the nano-world. Scientists have just built a tiny magnetic-resonance-imaging detector out of diamond. It has now scanned a single proton. It detected that proton, even though it could not actually make an image of it.
+
+One day, such a device might make it possible to “see” far bigger — but still quite tiny — biological features, such as viruses and proteins.
+
+“It's a really nice milestone,” Daniel Rugar told Science News. A physicist at the IBM Almaden Research Center in San Jose, Calif., he did not work on the device.
+
+The new scanner is a micro-scale version of the giant magnetic resonance imaging (MRI) machines used in hospitals and labs. But it works much the same way they do.
+
+In a hospital MRI machine, the body part to be scanned is placed in a strong magnetic field. This aligns the magnetic fields of individual protons in molecules throughout that body part being scanned. The fields of these protons will now point in the same direction. Then, the MRI directs radio waves at the body part. Those protons absorb these waves and send them back out — but at a different frequency. (Frequency is measured as the number of waves per second.) When the radio waves shut off, the protons' magnetic fields return to normal. The scanner uses the shifts in frequencies to create a detailed map of the tissues that had been scanned.
+
+Protons are found in the nucleus of all atoms. But in hydrogen they’re special. The nucleus of each hydrogen atom consists of a single proton. Hydrogen atoms can be found in water molecules. The human body contains so much water that it contains trillions of hydrogen atoms. This makes MRI a powerful tool for peering inside the ocean of atoms comprising our cells and tissues.
+
+Scientists have been trying for more than 20 years to use the same approach to scan even smaller things.
+
+“We want to apply MRI tricks to studying viruses, cells and individual molecules,” Christian Degen told Science News. He is a solid state physicist at ETH Zurich in Switzerland. Degen is no stranger to the field. In 2009, he and a team of scientists used a magnetic sensor to image a virus. The virus contained about 10,000 hydrogen atoms.
+
+To build a sensor that could identify a single proton, his team used diamond. This crystalline mineral is made of a rigid array of carbon atoms. The researchers removed two carbon atoms from the surface of the crystal. In that space, they substituted an atom of nitrogen. Now, when the researchers shone a green light on the crystal, the nitrogen atom sent out bright red light.
+
+Degen’s team placed a thin slice of the material that contained hydrogen just above the diamond crystal's surface. When they turned on the magnetic field, they observed that the brightness of the red light changed due to a change in magnetic fields. That highlighted the presence of a single proton nearby. Degen’s team reported its findings October 16 in Science.
+
+The red light acts like a flashlight. And it serves as a sensor that points to a changing magnetic field, such as the one in the proton, Rugar says. The red light brightens or dims in response to how strong that magnetic field is. Scientists are “still discovering all the things that can be done with it,” Rugar said.
+
+Technologies already exist to scan molecules — items made of many atoms, which are themselves made of subatomic particles. The new magnetic sensor suggests it is possible to detect those subatomic building blocks, one by one. And that may help show scientists how proteins, viruses, and other tiny objects behave.
+
+Power Words
+atom   The basic unit of a chemical element. Atoms are made up of a dense nucleus that contains positively charged protons and neutrally charged neutrons. The nucleus is orbited by a cloud of negatively charged electrons.
+
+carbon  The chemical element having the atomic number 6. It is the physical basis of all life on Earth. Carbon exists freely as graphite and diamond. It is an important part of coal, limestone and petroleum, and is capable of self-bonding, chemically, to form an enormous number of chemically, biologically and commercially important molecules.
+
+cell   The smallest structural and functional unit of an organism. Typically too small to see with the naked eye,it consists of watery fluid surrounded by a membrane or wall. Animals are made of anywhere from thousands to trillions of cells, depending on their size.
+
+crystal  A solid consisting of a symmetrical, ordered, three-dimensional arrangement of atoms or molecules. It’s the organized structure taken by most minerals. Apatite, for example, forms six-sided crystals. The mineral crystals that make up rock are usually too small to be seen with the unaided eye.
+
+diamond  One of the hardest known substances and rarest gems on Earth. Diamonds form deep within the planet when carbon is compressed under incredibly strong pressure.
+
+frequency  The number of times a specified periodic phenomenon occurs within a specified time interval. (In physics) The number of wavelengths that occurs over a particular interval of time.
+
+hydrogen  The lightest element in the universe. As a gas, it is colorless, odorless and highly flammable. It’s an integral part of many fuels, fats and chemicals that make up living tissues.
+
+magnetic field  An area of influence created by certain materials, called magnets, or by the movement of electric charges.
+
+magnetic resonance imaging (MRI)  An imaging technique to visualize soft, internal organs, like the brain, muscles, heart and cancerous tumors. MRI uses strong magnetic fields to record the activity of individual atoms. 
+
+mineral  The crystal-forming substances, such as quartz, apatite, or various carbonates, that make up rock. Most rocks contain several different minerals mish-mashed together. A mineral usually is solid and stable at room temperatures and has a specific formula, or recipe (with atoms occurring in certain proportions) and a specific crystalline structure (meaning that its atoms are organized in certain regular three-dimensional patterns). (in physiology) The same chemicals that are needed by the body to make and feed tissues to maintain health.
+
+molecule  An electrically neutral group of atoms that represents the smallest possible amount of a chemical compound. Molecules can be made of single types of atoms or of different types. For example, the oxygen in the air is made of two oxygen atoms (O2), but water is made of two hydrogen atoms and one oxygen atom (H2O).
+
+nano  A prefix indicating a billionth. In the metric system of measurements, it’s often used as an abbreviation to refer to objects that are a billionth of a meter long or in diameter.
+
+nitrogen    A colorless, odorless and nonreactive gaseous element that forms about 78 percent of Earth's atmosphere. Its scientific symbol is N. Nitrogen is released in the form of nitrogen oxides as fossil fuels burn.
+
+nucleus  Plural is nuclei. (in biology) A dense structure present in many cells. Typically a single rounded structure encased within a membrane, the nucleus contains the genetic information. (in astronomy) The rocky body of a comet, sometimes carrying a jacket of ice or frozen gases. (in physics) The central core of an atom, containing most of its mass.
+
+physicist  A scientist who studies the nature and properties of matter and energy.
+
+proteins      Compounds made from one or more long chains of amino acids. Proteins are an essential part of all living organisms. They form the basis of living cells, muscle and tissues; they also do the work inside of cells. The hemoglobin in blood and the antibodies that attempt to fight infections are among the better known, stand-alone proteins. Medicines frequently work by latching onto proteins.
+
+proton  A subatomic particle that is one of the basic building blocks of the atoms that make up matter. Protons belong to the family of particles known as hadrons. A single proton also makes up the nucleus of a hydrogen atom.
+
+radio waves  Waves in a part of the electromagnetic spectrum; they are a type that people now use for long-distance communication. Longer than the waves of visible light, radio waves are used to transmit radio and television signals; it is also used in radar.
+
+sensor  A device that picks up information on physical or chemical conditions — such as temperature, barometric pressure, salinity, humidity, pH, light intensity or radiation — and stores or broadcasts that information. Scientists and engineers often rely on sensors to inform them of conditions that may change over time or that exist far from where a researcher can measure them directly.
+
+solid state    A term for electronics technologies that create circuitry or devices from solid materials known as semiconductors. As they work, their electrons (or other charge carriers) remain confined entirely within the solid material.
+
+subatomic  Anything smaller than an atom, which is the smallest bit of matter that has all the properties of whatever chemical element it is (like hydrogen, iron or calcium).
+
+virus  Tiny infectious particles consisting of RNA or DNA surrounded by protein. Viruses can reproduce only by injecting their genetic material into the cells of living creatures. Although scientists frequently refer to viruses as live or dead, in fact no virus is truly alive. It doesn’t eat like animals do, or make its own food the way plants do. It must hijack the cellular machinery of a living cell in order to survive.

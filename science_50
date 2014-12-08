@@ -1,0 +1,92 @@
+Designing robots to help in a disaster
+
+Dennis Hong first spied Japan’s ruined nuclear power plant from a bus wrapped in plastic.
+
+A hefty layer of protection guarded the seats, floors and handles from radioactive dust. Hong wore a face mask and gloves to limit his own exposure. Like the other passengers, he had dressed in old clothes that he was willing to toss after the trip.
+
+More than three years earlier, after an earthquake and tsunamis battered Japan’s eastern coast, the Fukushima Daiichi Nuclear Power Station blew, blasting radiation into the sea and sky. Today, villages outside the plant still lie as barren as ghost towns. Soccer balls and notebooks rest untouched in abandoned schools; hushed houses sit deserted. Along the coast, smashed buildings, flipped cars and train tracks twisted like taffy stand as reminders of the catastrophe.
+
+“It’s like a disaster site frozen in time,” Hong says. “It’s surreal.”
+
+Building a better bot
+Atlas robot
+Robots like Atlas (right) can do some impressive things, but not everything that’s needed to save lives in a disaster. Challenges include:
+
+Autonomy
+Communication
+Power
+Strength
+Manipulation
+Mobility
+Tap image for more details.
+
+Workers toiled day and night to save the plant, but they had to get out as radiation levels rose. Even in disaster areas not tainted with radiation, picking through the shambles of destroyed buildings is treacherous: People need to dodge shards of glass and metal and duck clouds of smoke and dust.
+
+Ideally, robots could take over for human crews. But seemingly simple tasks, such as walking, communicating and staying powered up, still pose big challenges for machines.
+
+Hong, a UCLA roboticist, is one of several engineers racing to make robots that can come to the rescue in disasters. He and others from academia, industry, NASA’s Jet Propulsion Lab and the Department of Defense research agency known as DARPA traveled to Fukushima this spring to see what they were up against. “The take-home message was, ‘Wow, it’s damn difficult,’ ” Hong says.
+
+Engineers have built impressive-looking humanlike bots that can play trumpet and even compete against each other in slow-moving soccer games. But machines that can actually do the work of humans in disaster zones — climbing over rubble, digging through debris for survivors, opening doors and valves — don’t exist.
+
+So DARPA kicked off a contest to create robots that someday could do the job. In 2012, the agency announced the DARPA Robotics Challenge, a competition designed to push disaster robotics technology miles past where it is today. A year ago, 17 robotic contenders, including Hong’s man-shaped machine, THOR-OP, tackled a rugged obstacle course to try to gain a spot in the finals, to be held in June 2015. 
+
+Gill Pratt, a DARPA program manager, knows that researchers might take years to develop robots that could have saved the power plant. But he thinks the competition — with its motley crew of robotics engineers and their rowdy fans — is a good place to start.
+
+CHIMP robot
+At 5 feet 2 inches tall and 400 pounds, this bot, called CHIMP, rolls on treads for extra stability. It can turn valves and operate power tools.
+NATIONAL ROBOTICS ENGINEERING CENTER/CARNEGIE MELLON UNIVERSITY
+
+On the scene
+In the last decade or so, disaster-response robots haven’t changed much. When the World Trade Center collapsed in 2001, engineers deployed a handful of lightweight bots to burrow through the rubble.
+
+“These guys went into spaces where the first responders couldn’t go,” remembers Robin Murphy, a field roboticist at Texas A&M University in College Station. Because 110 floors of concrete and steel crumpled down into dense stacks of dust and debris, she says, ground-penetrating radar couldn’t see through the rubble, and search-and-rescue dogs had trouble sniffing out survivors.
+
+The robots, roughly shoebox-sized tanks, offered a new way for rescue teams to take a look. Murphy considers the roving machines a success: A few tunneled deep within the wreckage and withstood extreme heat to find 10 sets of human remains. But the robots didn’t locate any survivors, and they ran into a slew of technical snags.
+
+One robot slipped its tread and had to be pulled from the rubble and repaired. Another got wedged in a gap, stalled until rescuers could tug it out by its safety tether. A third robot lost communication, broke its tether, and was never seen again.
+
+Machines at Fukushima faced similar problems. In the days following the earthquake, researchers from around the world sent ground-based and aerial robots to Japan to try to get to spots where humans couldn’t safely travel. DARPA sent all it had, Pratt remembers. But training power plant personnel to use the robots took time. And once inside the plant, muddy stairs, tight stair landings and a severed communication cable thwarted the machines’ progress.
+
+“We did everything we could, and it still wasn’t good enough,” Pratt says.
+
+The power plant survived the first hit: an earthquake that thundered beneath the Pacific Ocean on the afternoon of March 11, 2011. The magnitude 9.0 quake, one of the most powerful in Japan’s history, hit about 180 kilometers from the Fukushima-Daiichi site — more than the distance from Philadelphia to Baltimore. And the power plant had been built to withstand vigorous shakes.
+
+Tsunami wave
+
+Japanese police and soldiers in radiation protective gear
+ After the 2011 quake and tsunamis caused mass evacuations, hundreds of Japanese police and soldiers donned radiation protective gear to search for missing people.
+
+From top: © AFLO / MAINICHI NEWSPAPER/epa/Corbis; Hiro Komae/AP
+
+The quake cut off power, but the reactors shut down automatically as planned and backup generators kicked in to prevent overheating. Less than an hour after the earthquake struck, however, a series of tsunamis roared down upon the plant. One wave towered up to 15 meters high, about three times the height of the tsunamis that Fukushima’s buildings had been designed to block.
+
+Seawater flooded in, wrecking equipment and sparking electrical failures in the backup generators. With no power to chill the reactors, water in the cooling systems boiled away. Steam built up, temperatures ticked higher and hydrogen gas collected inside the reactor buildings. Plant workers tried to open valves to release pressure, but radiation levels had climbed too high for people to safely endure. They weren’t able to vent the gas soon enough to stop the explosions. A day after the tsunamis, the plant’s first reactor blew. Over the next three days, two other reactors exploded too.
+
+Ideally, plant workers would have sent in robots to turn the valves and prevent the explosions, Pratt says. But the robots that made it to Japan didn’t get inside the plant in time and probably weren’t strong enough for the task.
+
+A far cry from C-3PO
+Years before, Japan — a country known for its advanced robotics — had actually developed robots to respond to nuclear emergencies. After a power plant accident in 1999, engineers created six huge, treaded robots to open doors, turn valves, carry heavy loads and even clean up radiation. But these bots weren’t maintained well enough for use at Fukushima. Even if they had been oiled up and ready to go, at more than 200 kilograms, about the weight of a female polar bear, they may have been too big and heavy to be useful, engineer Keiji Nagatani and colleagues reported in the Journal of Field Robotics in 2013. 
+
+A smaller robot, designed for disposing of explosives, was the first to make it into Fukushima’s reactors, about a month after the earthquake struck. Shin-height and light enough to be carried on a soldier’s back, the robot, called the PackBot, uses treads to haul itself over bumpy turf. A skinny arm mounted with a gripper claw and a camera lets the robot grasp and see.
+
+Thousands of these bots, developed more than a decade ago and used at the collapsed twin towers, have worked with military and police to suss out explosives. In the days following the Fukushima earthquake, iRobot, the company that produces the PackBot, rushed to add radiation and chemical sensors to the bots and send them overseas, says engineer Tim Trainer, a vice president of the company.
+
+Someday, it would be really cool to have a robot that does everything a fireman can do . . . burst through the door, save the baby, the whole nine yards.
+— Brett Kennedy
+
+The sensors came in handy: Plant workers used them to point out places inside the plant where humans could safely explore. But maneuvering the robots through the darkened plant was at times impossible. Though the machines could open doors, the bots’ operators had to use two PackBots to do so: one to turn the handle and the second to aim its camera at the first. What’s more, the robots struggled to climb the plant’s slick metal stairs.
+
+After the PackBot failed to make it up a few flights, workers sent in Japan’s version of the machine, a slightly less rugged-looking bot called Quince. But Quince couldn’t adapt to stairway landings that were smaller than shown in the building’s blueprints, Murphy explains, and the robot’s bulky body got stuck. Quince also snapped its tether, leaving the bot stranded in a place where humans couldn’t save it.
+
+Given Japan’s top spot in the robotics realm, the country’s lack of versatile, usable rescue robots surprised people in the field, says University of Pennsylvania roboticist Mark Yim. Not only did Japan have simple ground-roving bots like Quince, but the country had more humanoid machines than anyone else on the planet, he says. Unfortunately, these fledgling gizmos weren’t ready to leave the lab. For some humanoids, just making it across slightly uneven floors can be tricky.
+
+“People see a humanoid robot and they think it can do anything a human can do,” Yim says. “In reality, it can do very little.”
+
+Still, some type of limbed, human-ish machine might be the key to tackling disasters in urban areas, where stairs and doors have been designed for human legs to climb and human hands to open. Adopting a personlike shape could even let robots access tools, Hong says.
+
+“At a disaster site, there are bulldozers, excavators, power tools — all this great equipment that people use for rescue missions,” Hong says. “So, naturally, a lot of people believe the robot needs to be in a human form.”
+
+And in the DARPA Robotics Challenge trials, most contenders were. But these robots aren’t anywhere near the C-3PO- or Terminator-style machines of the movies. Today’s state-of-the-art humanoids have just begun venturing out of the lab, and they’re taking baby steps.
+
+Clash of the bots
+Watching disaster-relief robots triumph — or fizzle — at even the simplest tasks can be thrilling. Last December, thousands of cheering spectators flocked to a Florida racetrack to see a medley of high-tech machines in action at the trials. The robots lumbered and lurched through a series of tasks, including opening doors, walking over rubble and turning valves. Here was the future of disaster-relief robots, where the simple act of getting a bot to set a tool on a table is still considered showboating.
